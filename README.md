@@ -2,7 +2,7 @@
 
 Welcome to the Bloom Store, a complete, multi-page e-commerce website built with the MERN stack. This platform is designed to sell home decor plants, gardening accessories, and related products, featuring a comprehensive admin panel for easy management.
 
-![Bloom Store Homepage](https://i.imgur.com/your-homepage-screenshot.png) <!-- Optional: You can add a screenshot of your app here -->
+<!--![Bloom Store Homepage](https://i.imgur.com/your-homepage-screenshot.png)  Optional: You can add a screenshot of your app here -->
 
 ## Key Features
 
